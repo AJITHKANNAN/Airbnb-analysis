@@ -1,0 +1,9 @@
+easyocr # (Optical Character Recognition)
+numpy 
+pandas
+pillow
+opencv-python
+streamlit
+matplotlib
+seaborn
+mysql-connector-python
